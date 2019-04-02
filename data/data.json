@@ -8,7 +8,11 @@
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/random-quote-generator/",
                 "github_link" : "https://github.com/epaitoo/random-quote-generator",
-                "image_urls" : ["/project images here"]
+                "image_urls" : [
+                        "/static/img/random1.png",
+                        "/static/img/random2.png",
+                        "/static/img/random3.png"
+                    ]
             },
             {
                 "id" : 1,
@@ -17,7 +21,11 @@
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/pagination-and-content-filter",
                 "github_link" : "https://github.com/epaitoo/pagination-and-content-filter",
-                "image_urls" : ["/project images here"]
+                "image_urls" : [
+                        "/static/img/page1.png",
+                        "/static/img/page2.png",
+                        "/static/img/page3.png"
+                    ]
             },
             {
                 "id" : 2,
@@ -26,7 +34,12 @@
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/interactive-form/",
                 "github_link" : "https://github.com/epaitoo/interactive-form",
-                "image_urls" : ["/project images here"]
+                "image_urls" : [
+                        "/static/img/form1.png",
+                        "/static/img/form2.png",
+                        "/static/img/form3.png"
+
+                    ]
             },
             {
                 "id" : 3,
@@ -35,7 +48,11 @@
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/game-show-app/",
                 "github_link" : "https://github.com/epaitoo/game-show-app",
-                "image_urls" : ["/project images here"]
+                "image_urls" : [
+                        "/static/img/game1.png", 
+                        "/static/img/game2.png",
+                        "/static/img/game3.png"
+                    ]
             },
             {
                 "id" : 4,
@@ -44,7 +61,11 @@
                 "technologies" : ["HTML", "CSS", "JavaScript", "Fetch API"],
                 "live_link" : "https://epaitoo.github.io/employee-directory/",
                 "github_link" : "https://github.com/epaitoo/employee-directory",
-                "image_urls" : ["/project images here"]
+                "image_urls" : [
+                        "/static/img/fetch1.png",
+                        "/static/img/fetch2.png",
+                        "/static/img/fetch3.png"
+                    ]
             }
 
         ]
