@@ -3,8 +3,17 @@ extends layout.pug
 block content
   nav.grid-container.portfolio-breadcrumb
     a(href='/') ← Back
-  article.grid-container.portfolio-intro.portfolio-project
-    .grid-x 
-    h1= error.message
-    h2= error.status
-    pre= error.stack
+  
+  h1.err=`${error.status} - ${error.message}`
+    p.zoom-area
+      b 
+      |  Oops! Page does not exist.
+    section.error-container
+      span.four
+        span.screen-reader-text 4
+      span.zero
+        span.screen-reader-text 0
+      span.four
+        span.screen-reader-text 4    
+    .link-container
+      a.more-link(href='/') GO TO HOMEPAGE
