@@ -50,6 +50,10 @@ a:hover{
   color: #111;
 }
 
+.modef-link {
+  background: cyan;
+}
+
 .image{
   display: inline-block;
   max-width: 100%;
@@ -75,7 +79,7 @@ a:hover{
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: rgb(209, 206, 206);
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -150,6 +154,7 @@ a:hover{
 
 .portfolio-project p{
   border: none;
+  color: #111
 }
 
 .portfolio-project li{
