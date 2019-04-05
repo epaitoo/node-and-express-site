@@ -4,7 +4,7 @@
             {
                 "id" : 0,
                 "project_name" : "A Random Quote Generator",
-                "description" : "Random Quote Generator to display random movie quotes",
+                "description" : "Random Quote Generator to display random movie quotes automatically or by clicking on a button. The background color of the page also changes on click or automatically when a new quote is shown every 30 Seconds.",
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/random-quote-generator/",
                 "github_link" : "https://github.com/epaitoo/random-quote-generator",
@@ -17,7 +17,7 @@
             {
                 "id" : 1,
                 "project_name" : "Pagination and Content filter",
-                "description" : "List of Students with Pagination to display 10 students per page",
+                "description" : "List of Students with Pagination to display 10 students per page. The page includes a list of 54 students",
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/pagination-and-content-filter",
                 "github_link" : "https://github.com/epaitoo/pagination-and-content-filter",
@@ -30,7 +30,7 @@
             {
                 "id" : 2,
                 "project_name" : "An interactive form",
-                "description" : "Using plain JavaScript to make a Web form interactive",
+                "description" : "Using plain JavaScript to make a Web form interactive and it also includes form validation.",
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/interactive-form/",
                 "github_link" : "https://github.com/epaitoo/interactive-form",
@@ -44,7 +44,7 @@
             {
                 "id" : 3,
                 "project_name" : "Game Show App",
-                "description" : "A browser based game called Phrase Hunter using Object Oriented JavaScript",
+                "description" : "A browser based game called Phrase Hunter. This project purely focuses on Object Oriented Programming in JavaScript",
                 "technologies" : ["HTML", "CSS", "JavaScript"],
                 "live_link" : "https://epaitoo.github.io/game-show-app/",
                 "github_link" : "https://github.com/epaitoo/game-show-app",
@@ -57,7 +57,7 @@
             {
                 "id" : 4,
                 "project_name" : "An Employee Directory",
-                "description" : "Using the Fetch API to retrieve data from an API to create an employee directory",
+                "description" : "Using the Fetch API to retrieve data from an API to create an employee directory. This app is built for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world",
                 "technologies" : ["HTML", "CSS", "JavaScript", "Fetch API"],
                 "live_link" : "https://epaitoo.github.io/employee-directory/",
                 "github_link" : "https://github.com/epaitoo/employee-directory",
