@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/epaitoo/node-and-express-site.git"
   },
+  "engines": {
+    "node": "10.15.3"
+  },
   "author": "Eugene Paitoo",
   "license": "MIT",
   "bugs": {
